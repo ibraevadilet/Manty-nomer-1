@@ -1,0 +1,10 @@
+{
+    "catchExTimeOfProcessing":"Превышено время обработки запроса.\nПовторите позднее",
+    "catchExNoInternet":"Нет интернет соединения",
+    "catchExRequestDenied":"Запрос отклонен",
+    "catchExLoginNotFound":"Неверный логин или пароль",
+    "catchExSystemError":"Произошла системная ошибка",
+    "catchExSessionExpired":"Ваша сессия истекла. Просьба авторизоваться повторно!",
+
+    "retry":"Повторить попытку"
+}
